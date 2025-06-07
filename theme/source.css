@@ -1,0 +1,22 @@
+/**
+ * @name Translucence Yumero Overlay
+ * @version 1.0
+ * @description CapnKitten/Translucent theme overlay
+ * @author Yumero
+ */
+:root {
+  --app-bg: url(https://i.imgur.com/py146Ml.png) !important;
+  --app-radius: 8px !important;
+  --accent-hue: -175 !important;
+  --accent-saturation: 90% !important;
+  --accent-lightness: 60% !important;
+}
+
+.layers__160d8 {
+  margin: initial !important;
+  border-radius: initial !important;
+}
+
+.appMount_ea7e65 svg {
+  filter: unset !important;
+}
